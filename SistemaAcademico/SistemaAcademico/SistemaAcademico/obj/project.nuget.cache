@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j2GMPoZRBChsa3r7viBkGAwakAQ1I/mAK88tVlqpqucMs7Jv5qSpG3/LMlzLPaKrnwuziBv+p9gxq36WKK5LsA==",
+  "dgSpecHash": "Xv08p/jGmbcZKDgGOiEuAVDi2LZl3BakaVz4cQ/cq5omVc7oW0YIb4x65kRhWvtxExrn9TTSyqDSJWEEIwnjQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Thiago Nicolas\\OneDrive\\Desktop\\SistemaAcademico1\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Nicolas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Thiago Nicolas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Nicolas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Nicolas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

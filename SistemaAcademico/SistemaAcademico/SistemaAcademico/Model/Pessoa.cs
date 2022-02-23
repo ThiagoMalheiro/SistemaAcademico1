@@ -12,5 +12,7 @@ namespace SistemaAcademico.Model
         public long cpf;
         public string nome;
         public DateTime dataNascimento;
+        public string endereco;
+        public string telefone;
     }
 }
